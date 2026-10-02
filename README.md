@@ -12,10 +12,10 @@ I expect to graduate in **January 2028** and am interested in **embedded softwar
 
 | Project | Engineering focus |
 | --- | --- |
-| [STM32 CCD acquisition experiments](https://github.com/FaizanTabassum/CheckAg-TCDTestsing) | Timer/PWM coordination, ADC capture with DMA, USB CDC and sensor bring-up |
+| [Articubot One](https://github.com/FaizanTabassum/articubot_one) | ROS 2 robot adapted from Josh Newans’ Articubot One, with a compact printable chassis, Raspberry Pi/Arduino integration and customized URDF |
 | [SelfPlanter](https://github.com/FaizanTabassum/SelfPlanter) | Arduino sensor integration, relay control, OLED menus, EEPROM settings and RTC scheduling |
 | [ESP32 Curtain Controller](https://github.com/FaizanTabassum/ESPCurtainController) | ESP RainMaker, BLE provisioning, motor actuation and end-stop inputs |
-| [Spectrometer UI — upstream fork](https://github.com/FaizanTabassum/spectrometer_UI) | Python/Shiny serial acquisition, raw-sample plotting and CSV export experiments |
+| [Aventus Autoflora](https://github.com/FaizanTabassum/Aventus_autoflora) | ESP-NOW sensor networking, ESP32-CAM streaming, Python data logging and plant-health classification experiments |
 
 The project READMEs explain the implemented behavior, hardware dependencies and unfinished work.
 
