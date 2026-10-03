@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Faizan Tabassum — Embedded Software and Firmware</title>
+<desc id="desc">Dark green printed circuit board artwork with copper traces and a microcontroller.</desc>
+<defs>
+<linearGradient id="board" x2="1" y2="1"><stop stop-color="#071a19"/><stop offset="1" stop-color="#0d302b"/></linearGradient>
+<linearGradient id="chip" x2="1" y2="1"><stop stop-color="#173530"/><stop offset="1" stop-color="#071714"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#7ce3bd" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="400" rx="22" fill="url(#board)"/>
+<rect width="1200" height="400" rx="22" fill="url(#grid)"/>
+<rect x="18" y="18" width="1164" height="364" rx="13" fill="none" stroke="#408b71" stroke-opacity=".3"/>
+<g fill="none" stroke="#69c59d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".4"><path d="M 760 95 H 708 L 677 64 H 555"/><path d="M 760 119 H 700 L 670 149 H 612"/><path d="M 760 143 H 722 L 684 181 H 630"/><path d="M 760 167 H 717 L 677 207 H 595"/><path d="M 760 239 H 710 L 667 282 H 552"/><path d="M 760 263 H 728 L 678 313 H 615"/><path d="M 928 95 H 986 L 1026 55 H 1135"/><path d="M 928 119 H 1008 L 1043 84 H 1160"/><path d="M 928 143 H 1028 L 1063 178 H 1134"/><path d="M 928 167 H 987 L 1029 209 H 1170"/><path d="M 928 239 H 1010 L 1058 287 H 1152"/><path d="M 928 263 H 978 L 1028 313 H 1105"/><path d="M 798 67 V 36 H 865"/><path d="M 822 67 V 20 H 984"/><path d="M 870 67 V 38 H 1070"/><path d="M 798 291 V 337 H 699"/><path d="M 846 291 V 356 H 961"/><path d="M 894 291 V 332 H 1170"/></g>
+<g fill="#0b2722" stroke="#b4d796" stroke-width="2"><circle cx="555" cy="64" r="5"/><circle cx="612" cy="149" r="5"/><circle cx="630" cy="181" r="5"/><circle cx="595" cy="207" r="5"/><circle cx="552" cy="282" r="5"/><circle cx="615" cy="313" r="5"/><circle cx="1135" cy="55" r="5"/><circle cx="1160" cy="84" r="5"/><circle cx="1134" cy="178" r="5"/><circle cx="1170" cy="209" r="5"/><circle cx="1152" cy="287" r="5"/><circle cx="1105" cy="313" r="5"/><circle cx="865" cy="36" r="5"/><circle cx="984" cy="20" r="5"/><circle cx="1070" cy="38" r="5"/><circle cx="699" cy="337" r="5"/><circle cx="961" cy="356" r="5"/><circle cx="1170" cy="332" r="5"/></g>
+<g fill="#b1c3aa"><rect x="748" y="91" width="17" height="8" rx="2"/><rect x="923" y="91" width="17" height="8" rx="2"/><rect x="748" y="115" width="17" height="8" rx="2"/><rect x="923" y="115" width="17" height="8" rx="2"/><rect x="748" y="139" width="17" height="8" rx="2"/><rect x="923" y="139" width="17" height="8" rx="2"/><rect x="748" y="163" width="17" height="8" rx="2"/><rect x="923" y="163" width="17" height="8" rx="2"/><rect x="748" y="187" width="17" height="8" rx="2"/><rect x="923" y="187" width="17" height="8" rx="2"/><rect x="748" y="211" width="17" height="8" rx="2"/><rect x="923" y="211" width="17" height="8" rx="2"/><rect x="748" y="235" width="17" height="8" rx="2"/><rect x="923" y="235" width="17" height="8" rx="2"/><rect x="748" y="259" width="17" height="8" rx="2"/><rect x="923" y="259" width="17" height="8" rx="2"/><rect x="790" y="56" width="8" height="18" rx="2"/><rect x="790" y="285" width="8" height="18" rx="2"/><rect x="814" y="56" width="8" height="18" rx="2"/><rect x="814" y="285" width="8" height="18" rx="2"/><rect x="838" y="56" width="8" height="18" rx="2"/><rect x="838" y="285" width="8" height="18" rx="2"/><rect x="862" y="56" width="8" height="18" rx="2"/><rect x="862" y="285" width="8" height="18" rx="2"/><rect x="886" y="56" width="8" height="18" rx="2"/><rect x="886" y="285" width="8" height="18" rx="2"/></g>
+<rect x="763" y="70" width="165" height="219" rx="8" fill="url(#chip)" stroke="#548e75" stroke-width="1.5"/>
+<path d="M 783 91 H 910 V 272 H 783 Z" fill="none" stroke="#62a486" stroke-opacity=".25"/>
+<circle cx="781" cy="87" r="4" fill="#abd4ae"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" text-anchor="middle">
+<text x="846" y="159" fill="#d9ede1" font-size="27" letter-spacing="3">F T</text>
+<text x="846" y="188" fill="#81b99d" font-size="10" letter-spacing="3">FIRMWARE</text>
+<path d="M 805 213 H 816 V 204 H 829 V 225 H 843 V 204 H 857 V 225 H 871 V 213 H 887" fill="none" stroke="#bde591" stroke-width="2"/>
+<text x="846" y="250" fill="#5e8d79" font-size="9" letter-spacing="2">BUILD · TEST · DEBUG</text>
+</g>
+<rect x="44" y="45" width="5" height="16" rx="2" fill="#bde591"/>
+<text x="62" y="58" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#a2d3b9" letter-spacing="3">HARDWARE MEETS SOFTWARE</text>
+<g font-family="Arial, Helvetica, sans-serif" fill="#edf6ef" font-weight="700">
+<text x="44" y="143" font-size="60" letter-spacing="-2">FAIZAN</text>
+<text x="44" y="206" font-size="60" letter-spacing="-2">TABASSUM</text>
+</g>
+<path d="M 45 232 H 114 L 125 221 H 166" fill="none" stroke="#bde591" stroke-width="2"/>
+<text x="44" y="271" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#abd5c1">Embedded software &amp; firmware engineer</text>
+<text x="44" y="308" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#71ab91" letter-spacing="1">C / C++   ·   MICROCONTROLLERS   ·   REAL HARDWARE</text>
+<g fill="none" stroke="#9dbb93" stroke-opacity=".45"><circle cx="38" cy="362" r="7"/><circle cx="1162" cy="362" r="7"/></g>
+<text x="63" y="366" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" fill="#629680" font-size="10" letter-spacing="2">FAIZANTABASSUM / ENGINEERING</text>
+</svg>
