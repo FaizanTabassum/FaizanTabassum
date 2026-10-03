@@ -1,5 +1,3 @@
-![Faizan Tabassum — Embedded software and firmware engineer](assets/pcb-banner.svg)
-
 <p align="center">
   <strong>Mohamed Faizan Tabassum</strong><br>
   MSc Computer Engineering · National University of Singapore<br><br>
