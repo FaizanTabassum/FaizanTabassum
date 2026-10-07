@@ -125,9 +125,7 @@ Cortex-M spectrometry firmware, CCD and peripheral drivers, and hardware debuggi
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanTabassum&theme=radical&hide_border=true&area=true" alt="Faizan Tabassum contribution activity graph" width="100%"/>
-</div>
+[View my contribution history on GitHub](https://github.com/FaizanTabassum?tab=overview#year-list-container). The profile overview above and the animation below show my contribution activity.
 
 <br/>
 
