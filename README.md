@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Faizan%20Tabassum&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Embedded%20Systems%20%7C%20Firmware%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=18" alt="Mohamed Faizan Tabassum — Embedded Systems, Firmware, IoT and Robotics"/>
 
-**From sensors to working hardware.**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer quote"/>
-
 </div>
 
 <br/>
