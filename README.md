@@ -100,6 +100,7 @@ Cortex-M spectrometry firmware, CCD and peripheral drivers, and hardware debuggi
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![BeagleBone](https://img.shields.io/badge/BeagleBone-1D1D1D?style=for-the-badge)
 
 **Robotics and Machine Learning**
 
