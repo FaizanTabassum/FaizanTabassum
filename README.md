@@ -54,8 +54,8 @@ Cortex-M spectrometry firmware, CCD and peripheral drivers, and hardware debuggi
 
 | Project | What I built | Explore |
 | --- | --- | --- |
-| **SelfPlanter** | Arduino and Raspberry Pi plant-growing system with environmental sensing, lighting, watering, and nutrient management. | [Repository](https://github.com/FaizanTabassum/SelfPlanter) · [Demo](https://www.youtube.com/shorts/UUdvqYnQaXs) |
-| **ESP Curtain Controller** | ESP32 curtain automation using FreeRTOS, limit switches, MQTT, and voice-assistant integration through IFTTT. | [Repository](https://github.com/FaizanTabassum/ESPCurtainController) · [Demo](https://www.youtube.com/watch?v=mknOZel5K7s) |
+| **SelfPlanter** | Arduino Mega plant-growing prototype with sensor integration, relay control, OLED menus, EEPROM settings, and RTC scheduling. | [Repository](https://github.com/FaizanTabassum/SelfPlanter) · [Demo](https://www.youtube.com/shorts/UUdvqYnQaXs) |
+| **ESP Curtain Controller** | ESP32 curtain-control prototype using ESP RainMaker, BLE provisioning, motor outputs, and end-stop switches. | [Repository](https://github.com/FaizanTabassum/ESPCurtainController) · [Demo](https://www.youtube.com/watch?v=mknOZel5K7s) |
 | **Articubot One** | A compact, single-piece 3D-printable adaptation of Josh Newans’ ROS 2 robot, with Raspberry Pi, camera, and encoder motors. | [Repository](https://github.com/FaizanTabassum/articubot_one) · [Demo](https://www.youtube.com/shorts/J9USV1I4D2U) |
 | **Aventus Autoflora** | ESP-NOW plant sensor network, ESP32-CAM streaming, Python data logging, and a plant disease classification prototype. | [Repository](https://github.com/FaizanTabassum/Aventus_autoflora) · [Demo](https://www.youtube.com/watch?v=mknOZel5K7s) |
 
