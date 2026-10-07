@@ -26,6 +26,7 @@ platforms:
   - STM32 and Nordic nRF
   - ESP32 and Arduino
   - Raspberry Pi
+  - BeagleBone
 
 opportunities:
   - Embedded software and firmware roles in Singapore
@@ -120,14 +121,6 @@ Cortex-M spectrometry firmware, CCD and peripheral drivers, and hardware debuggi
 
 ---
 
-## 📈 Contribution Activity
-
-[View my contribution history on GitHub](https://github.com/FaizanTabassum?tab=overview#year-list-container). The profile overview above and the animation below show my contribution activity.
-
-<br/>
-
----
-
 ## 🐍 Snake Eating My Contributions
 
 <div align="center">
@@ -147,6 +140,7 @@ Cortex-M spectrometry firmware, CCD and peripheral drivers, and hardware debuggi
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizantabassum/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@letsmakeitabcd)
 [![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaizanTabassum?tab=repositories)
 
 Interested in embedded software and firmware roles in **Singapore**, and open to international opportunities.
